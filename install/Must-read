@@ -13,3 +13,6 @@ After installation, if you haven't logged into Telegram yet, please log in first
 If you are a user in China, please use a VPN.
 If you installed it in advance, please click the install2 folder and run the command inside.
 For related information, please refer to the following. 
+Install 2: You may need to install dependencies.
+You need to run ./ followed by the dependency name, and it will complete all installations automatically.
+vpn install is in vpninstall folder
