@@ -9,4 +9,7 @@ First install Termux and TermuxAPI on your Android device, then run ./Android Te
 For macOS, execute the command ./Mac os install.sh. 
 For Linux, run ./Linux installsh.sh.
 On Windows, just double-click the file and click "Yes" when prompted.
+After installation, if you haven't logged into Telegram yet, please log in first and then click the button in the middle of the webpage.
 If you are a user in China, please use a VPN.
+If you installed it in advance, please click the install2 folder and run the command inside.
+For related information, please refer to the following. 
