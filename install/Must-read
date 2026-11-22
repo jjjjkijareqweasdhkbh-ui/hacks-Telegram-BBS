@@ -4,8 +4,8 @@
 [2026/11/21 18:37] Oplete Oplete Actually: Everything here is confidential. Do not discuss it outside.
 [2026/11/21 18:38] Oplete Oplete Actually: Do not invite anyone else.Do not invite anyone else.
 The price you pay is none of the author’s concern. We merely give you the gun; this gun belongs to you, not the author.
-First install Termux and TermuxAPI on your Android device, then run ./Android Termux and Termux API install.sh and wait for the installation to complete. 
 Unauthorized reproduction is prohibited; otherwise, you shall bear all consequences.
+First install Termux and TermuxAPI on your Android device, then run ./Android Termux and Termux API install.sh and wait for the installation to complete. 
 For macOS, execute the command ./Mac os install.sh. 
 For Linux, run ./Linux installsh.sh.
 On Windows, just double-click the file and click "Yes" when prompted.
